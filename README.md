@@ -50,5 +50,5 @@ As my research focus evolves, older projects may be archived and new ones added.
 ---
 
 ## Contact
-- Email: bochen_dong@utdallas.edu / dongbochen@outlook.com
+- Email: bochen.dong@utdallas.edu / dongbochen@outlook.com
 - GitHub: https://github.com/ArcherPai
